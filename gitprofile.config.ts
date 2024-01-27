@@ -105,7 +105,7 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'MIT Applied Data Science Program,
+      name: 'MIT Applied Data Science Program',
       body: 'statistics, machine learning, deep learning',
       year: 'March 2022 - June 2022',
       link: 'https://example.com',
