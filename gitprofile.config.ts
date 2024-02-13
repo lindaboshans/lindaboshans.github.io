@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -36,8 +36,7 @@ const CONFIG = {
           title: 'scRNA-seq analysis',
           description:
             'This project contains R scripts that were used to analyze 10x Genomics scRNA-sequencing data of induced pluripotent stem cells that were differentiated into GABAergic inhibitory neurons.\
-            The goal of this project was to characterize the changes in transcriptome during differentiation, identify key transcription factor players throughout the process, examine trajectory inference, \
-            identify the fetal brain region most similar to these neurons, and examine any cellular subtypes.',
+            The goal of this project was to compare various differentiation protocols to determine which protocol produces the most mature, forebrain-like inhibitory neurons.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/lindaboshans/scRNA-seq-pipeline',
@@ -65,6 +64,15 @@ const CONFIG = {
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/lindaboshans/Spotify',
+        },
+        {
+          title: 'Mapping cis-regulatory elements in human neurons links psychiatric disease heritability and activity-regulated transcriptional programs',
+          description:
+            'This publication showcases my work in analyzing and integrating bulk RNA-sequencing, ATAC-sequencing, and CUT&RUN-sequencing of histone modifications and transcription factors \
+             in order to identify regions of the genome in neurons that respond to stimulation, and whether these regions infer disease heritablity.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219592/',
         },
       ],
     },
