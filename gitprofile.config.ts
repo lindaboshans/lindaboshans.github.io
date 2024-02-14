@@ -58,12 +58,15 @@ const CONFIG = {
           link: 'https://github.com/lindaboshans/Fitbit',
         },
         {
-          title: 'Spotify',
+          title: 'Harmonizing Preferences: Machine Learning for Spotify Song Predictions',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '"Harmonizing Preferences" is a data science project that explores the use of machine learning to predict personal music tastes on Spotify. \
+            Through the process of data scraping, exploratory data analysis, and testing various algorithms, the project culminates \
+            in training a predictive model with an 86.73% F1 score, showcasing the potential of machine learning in personalizing\
+            music recommendations.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://github.com/lindaboshans/Spotify',
+          link: 'https://github.com/lindaboshans/Spotify-Recommendation-System/',
         },
         {
           title: 'Mapping cis-regulatory elements in human neurons links psychiatric disease heritability and activity-regulated transcriptional programs',
