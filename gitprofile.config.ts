@@ -35,8 +35,11 @@ const CONFIG = {
         {
           title: 'scRNA-seq analysis',
           description:
-            'This project contains R scripts that were used to analyze 10x Genomics scRNA-sequencing data of induced pluripotent stem cells that were differentiated into GABAergic inhibitory neurons.\
-            The goal of this project was to compare various differentiation protocols to determine which protocol produces the most mature, forebrain-like inhibitory neurons.',
+            'This project showcases an analysis of single-cell RNA sequencing data from induced pluripotent stem cells differentiated into GABAergic inhibitory neurons, \
+            utilizing R scripts tailored for 10x Genomics scRNA-sequencing data. Aimed at advancing our understanding of neuronal differentiation, \
+            this research compares various protocols to identify the one that yields neurons most closely resembling mature, forebrain-specific inhibitory neurons. \
+            The outcome of this project not only sheds light on the optimal strategies for neuronal differentiation but also contributes significantly to the field \
+            of regenerative medicine and neural research',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/lindaboshans/scRNA-seq-pipeline',
