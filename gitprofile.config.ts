@@ -41,7 +41,7 @@ const CONFIG = {
             The outcome of this project not only sheds light on the optimal strategies for neuronal differentiation but also contributes significantly to the field \
             of regenerative medicine and neural research',
           imageUrl:
-            'https://imgur.com/a/6wbjuQH',
+            'https://i.imgur.com/Y9QTVyS.png',
           link: 'https://github.com/lindaboshans/scRNA-seq-pipeline',
         },
         {
