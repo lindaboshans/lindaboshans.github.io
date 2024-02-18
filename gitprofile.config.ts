@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'scRNA-seq analysis',
+          title: 'Advancing GABAergic Neuron Development: Insights from Single-cell RNA-sequencing',
           description:
             'This project showcases an analysis of single-cell RNA sequencing data from induced pluripotent stem cells differentiated into GABAergic inhibitory neurons, \
             utilizing R scripts tailored for 10x Genomics scRNA-sequencing data. Aimed at advancing our understanding of neuronal differentiation, \
@@ -41,7 +41,7 @@ const CONFIG = {
             The outcome of this project not only sheds light on the optimal strategies for neuronal differentiation but also contributes significantly to the field \
             of regenerative medicine and neural research',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://imgur.com/a/6wbjuQH',
           link: 'https://github.com/lindaboshans/scRNA-seq-pipeline',
         },
         {
