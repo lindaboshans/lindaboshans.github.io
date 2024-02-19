@@ -54,7 +54,7 @@ const CONFIG = {
             outcomes, this exploration sheds light on the complex factors affecting our well-being, highlighting the importance of \
             a holistic approach to health analytics.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://i.imgur.com/VhLnvLj.png',
           link: 'https://github.com/lindaboshans/Fitbit-Data-Analysis',
         },
         {
@@ -65,7 +65,7 @@ const CONFIG = {
             in training a predictive model with an 86.73% F1 score, showcasing the potential of machine learning in personalizing\
             music recommendations.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://i.imgur.com/8kxQlez.png',
           link: 'https://github.com/lindaboshans/Spotify-Recommendation-System/',
         },
         {
@@ -76,7 +76,7 @@ const CONFIG = {
             Brooklyn, followed by Queens, has the highest incidence of crashes when adjusted for population. This analysis not\
             only honed my data analysis skills but also spotlighted critical areas for potential safety improvements.",
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://i.imgur.com/4VN97C5.png',
           link: 'https://github.com/lindaboshans/EDA-for-NYC-Motor-Vehicle-Crashes',
         },
         {
