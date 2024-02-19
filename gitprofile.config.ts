@@ -45,20 +45,17 @@ const CONFIG = {
           link: 'https://github.com/lindaboshans/scRNA-seq-pipeline',
         },
         {
-          title: 'Deadliest NYC borough for crashes',
+          title: 'Fitbit Insights: Analyzing the Impact of Activity on Heart Rate and Sleep Quality',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'In this project I explore the the nuanced relationship between physical activity, resting heart rate, and sleep quality \
+            through detailed analysis of my personal Fitbit data. This project delves into whether activity levels can influence \
+            cardiovascular efficiency and sleep, employing data processing, feature engineering and linear regression. Despite \
+            challenging conventional wisdom with findings of no significant correlation between activity levels and expected health \
+            outcomes, this exploration sheds light on the complex factors affecting our well-being, highlighting the importance of \
+            a holistic approach to health analytics.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://github.com/lindaboshans/EDA-for-NYC-Motor-Vehicle-Crashes',
-        },
-        {
-          title: 'Fitbit',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://github.com/lindaboshans/Fitbit',
+          link: 'https://github.com/lindaboshans/Fitbit-Data-Analysis',
         },
         {
           title: 'Harmonizing Preferences: Machine Learning for Spotify Song Predictions',
@@ -70,6 +67,14 @@ const CONFIG = {
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/lindaboshans/Spotify-Recommendation-System/',
+        },
+        {
+          title: 'Deadliest NYC borough for crashes',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/lindaboshans/EDA-for-NYC-Motor-Vehicle-Crashes',
         },
         {
           title: 'Mapping cis-regulatory elements in human neurons links psychiatric disease heritability and activity-regulated transcriptional programs',
