@@ -85,7 +85,7 @@ const CONFIG = {
             'This publication showcases my work in analyzing and integrating bulk RNA-sequencing, ATAC-sequencing, and CUT&RUN-sequencing of histone modifications and transcription factors \
              in order to identify regions of the genome in neurons that respond to stimulation, and whether these regions infer disease heritablity.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            '',
           link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219592/',
         },
       ],
