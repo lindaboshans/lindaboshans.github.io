@@ -69,12 +69,12 @@ const CONFIG = {
           link: 'https://github.com/lindaboshans/Spotify-Recommendation-System/',
         },
         {
-          title: 'Analyzing New York City's Motor Vehicle Crashes: Trends and Fatalities Across Boroughs',
+          title: "Analyzing New York City's Motor Vehicle Crashes: Trends and Fatalities Across Boroughs",
           description:
-            'This project delves into New York City's motor vehicle crash data, aiming to identify trends in fatal crashes\
+            "This project delves into New York City's motor vehicle crash data, aiming to identify trends in fatal crashes\
             and their leading causes by borough. Through meticulous data cleaning and exploratory analysis, it was found that \
             Brooklyn, followed by Queens, has the highest incidence of crashes when adjusted for population. This analysis not\
-            only honed my data analysis skills but also spotlighted critical areas for potential safety improvements.',
+            only honed my data analysis skills but also spotlighted critical areas for potential safety improvements.",
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/lindaboshans/EDA-for-NYC-Motor-Vehicle-Crashes',
