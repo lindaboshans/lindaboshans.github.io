@@ -92,7 +92,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Linda Lee',
+    title: 'Portfolio of Linda Boshans Lee',
     description: '',
     imageURL: '',
   },
@@ -131,8 +131,11 @@ const CONFIG = {
     'HPC',
     'Python',
     'R',
-    'Data Analysis',
+    'Data Visualization',
     'Machine Learning',
+    'Random Forest Classification'
+    'Regression Analysis'
+    'Clustering classification'
   ],
   experiences: [
     {
