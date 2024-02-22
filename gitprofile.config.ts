@@ -133,8 +133,8 @@ const CONFIG = {
     'R',
     'Data Visualization',
     'Machine Learning',
-    'Random Forest Classification'
-    'Regression Analysis'
+    'Random Forest Classification',
+    'Regression Analysis',
     'Clustering classification'
   ],
   experiences: [
